@@ -1,4 +1,6 @@
 theme: minima
+plugins: 
+  - jekyll-feed
 
 ## Screenshot of Playing Around with Github 
 ---
