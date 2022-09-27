@@ -5,3 +5,6 @@
 ***[Lab Report 1](https://bec002.github.io/cse15l-lab-reports/)***
 
 theme: THEME-minima
+
+gem "minima"
+$ bundle
