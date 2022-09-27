@@ -18,8 +18,6 @@ Hello `World` ?
 3. world
 ```
 
-```
-* list
-* list
-* list 
-```
+* List
+* List
+* List
